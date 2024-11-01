@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vedPortfolio/home/static/css/main.598bcb44.css",
-    "main.js": "/vedPortfolio/home/static/js/main.729775c6.js",
-    "static/js/453.45d86ab6.chunk.js": "/vedPortfolio/home/static/js/453.45d86ab6.chunk.js",
-    "index.html": "/vedPortfolio/home/index.html",
-    "main.598bcb44.css.map": "/vedPortfolio/home/static/css/main.598bcb44.css.map",
-    "main.729775c6.js.map": "/vedPortfolio/home/static/js/main.729775c6.js.map",
-    "453.45d86ab6.chunk.js.map": "/vedPortfolio/home/static/js/453.45d86ab6.chunk.js.map"
+    "main.css": "/ved74thakur/vedPortfolio/static/css/main.598bcb44.css",
+    "main.js": "/ved74thakur/vedPortfolio/static/js/main.87055a66.js",
+    "static/js/453.45d86ab6.chunk.js": "/ved74thakur/vedPortfolio/static/js/453.45d86ab6.chunk.js",
+    "index.html": "/ved74thakur/vedPortfolio/index.html",
+    "main.598bcb44.css.map": "/ved74thakur/vedPortfolio/static/css/main.598bcb44.css.map",
+    "main.87055a66.js.map": "/ved74thakur/vedPortfolio/static/js/main.87055a66.js.map",
+    "453.45d86ab6.chunk.js.map": "/ved74thakur/vedPortfolio/static/js/453.45d86ab6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.598bcb44.css",
-    "static/js/main.729775c6.js"
+    "static/js/main.87055a66.js"
   ]
 }
