@@ -8,7 +8,7 @@ const ContactMe = () => {
       <FaCat className="cat" />
 
       <a
-        href="www.linkedin.com/in/ved-thakur"
+        href="https://www.linkedin.com/in/ved-thakur/"
         target="_blank"
         rel="noopener noreferrer"
       >
